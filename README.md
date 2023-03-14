@@ -5,7 +5,7 @@
       
    <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">Hi, I'm Shivam Pasvan <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="32"/></h1>
       
-   <p align="center"> <img src="https://komarev.com/ghpvc/?username=uttamkrshaw&label=Profile%20views&color=9130c2&style=flat" alt="Uttam Kr Shaw" /> </p>
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=Shivampasvan&label=Profile%20views&color=9130c2&style=flat" alt="Shivam Pasvan" /> </p>
       
    <h3 align="center">An analytical and detail-oriented aspiring
 Full Stack Web Developer. Capable of
@@ -29,7 +29,7 @@ product-based company.
   
   <p align="">
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=uttamkrshaw&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shivampasvan&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   <br /><br />
   </p>
       
@@ -37,12 +37,12 @@ product-based company.
 
   
   <p>
-    <a href="https://github.com/uttamkrshaw"><span>
+    <a href="https://github.com/Shivampasvan"><span>
         <img align="left" 
-          src="https://github-readme-stats.vercel.app/api/top-langs?username=uttamkrshaw&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true"
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=Shivampasvan&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true"
           alt="ovi" width="45%" />
           <img align="right"
-          src="https://github-readme-stats.vercel.app/api?username=uttamkrshaw&show_icons=true&locale=en&theme=github_dark&hide_border=true"
+          src="https://github-readme-stats.vercel.app/api?username=Shivampasvan&show_icons=true&locale=en&theme=github_dark&hide_border=true"
           alt="ovi" width="45%"  />
       </span></a>
   </p>
@@ -69,13 +69,13 @@ product-based company.
       
    - 🌱 I’m currently learning at Masai
       
-      - 📄 Check out my <a href="https://drive.google.com/file/d/1R0Gq3cFuy0t_2LlxlGQESS9mOV6Iehwn/view?usp=share_link" target="_blank" >Resume</a>
+      - 📄 Check out my <a href="https://drive.google.com/file/d/1btpP8GpXCqHSVFquGhEMmGley6nch-kY/view?usp=sharing" target="_blank" >Resume</a>
       
-      - 💻 Know more about me <a href="https://uttamkrshaw.github.io/" target="_blank"  >Portfolio</a>
+      - 💻 Know more about me <a href="https://shivampasvan.github.io/" target="_blank"  >Portfolio</a>
       
       - 💬 Ask me about *HTML, CSS, JavaScript, React, Chakra-UI, ExpressJS, MongoDB & DSA*
       
-      - 📫 How to reach me **uttamkr5599@gmail.com**
+      - 📫 How to reach me **shivampasvan@gmail.com**
       
       <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
     alt="Git" />
@@ -86,14 +86,14 @@ product-based company.
       <br />
      <div align="center" >
       
-     <a href="https://www.linkedin.com/in/uttam-kumar-aa183b126/" target="_blank">
+     <a href="https://www.linkedin.com/in/shivampasvan/" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" alt="LinkedIn"> </a>
       
-      <a href="https://uttamkrshaw.github.io" target="_blank">
+      <a href="https://shivampasvan.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" align="center" alt="Portfolio"> </a>
       
       
-      <a title="Uttam Kumar Shaw " href="uttamkr5599@gmail.com" target="_blank">
+      <a title="Shivam Pasvan" href="shivampasvan@gmail.com" target="_blank">
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center" alt="html5"> </a>
      
      </div>
@@ -160,7 +160,7 @@ product-based company.
     
   
   <p align="center">
-    <a href="https://github.com/uttamkrshaw"><span>
+    <a href="https://github.com/Shivampasvan"><span>
         <img align="center"
           src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uttamkrshaw&theme=github_dark" width="100%" />
       </span></a>
