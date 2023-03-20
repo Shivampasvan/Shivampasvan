@@ -72,7 +72,7 @@ product-based company.
       
       - 📄 Check out my <a href="https://drive.google.com/file/d/1btpP8GpXCqHSVFquGhEMmGley6nch-kY/view?usp=sharing" target="_blank" >Resume</a>
       
-      - 💻 Know more about me <a href="https://Shivampasvan.github.io">Portfolio</a>
+      - 💻 Know more about me <a href="https://Shivampasvan.github.io" target="text-decoration:none"><img height="30" align="left" src="https://img.shields.io/badge/My%20Portfolio%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/></a>
       
       - 💬 Ask me about *HTML, CSS, JavaScript, React, Chakra-UI, ExpressJS, MongoDB & DSA*
       
@@ -166,3 +166,5 @@ product-based company.
           src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivampasvan&theme=github_dark" width="100%" />
       </span></a>
   </p> 
+  
+  https://Shivampasvan.github.io
