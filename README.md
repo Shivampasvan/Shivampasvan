@@ -72,7 +72,7 @@ product-based company.
       
       - 📄 Check out my <a href="https://drive.google.com/file/d/1btpP8GpXCqHSVFquGhEMmGley6nch-kY/view?usp=sharing" target="_blank" >Resume</a>
       
-      - 💻 My portfolio link --- [Portfolio]( https://Shivampasvan.github.io/)
+      - 💻 My portfolio link [Portfolio]( https://Shivampasvan.github.io/)
       
       - 💬 Ask me about *HTML, CSS, JavaScript, React, Chakra-UI, ExpressJS, MongoDB & DSA*
       
