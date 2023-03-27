@@ -1,6 +1,6 @@
 
 
- <img src="https://i.pinimg.com/originals/c6/3c/ae/c63cae1344766f14d9d184e5aafed065.gif" alt="javascript" height="500px" width="100%" style="vertical-align:middle;margin:50px 0px" />
+<!--  <img src="https://i.pinimg.com/originals/c6/3c/ae/c63cae1344766f14d9d184e5aafed065.gif" alt="javascript" height="500px" width="100%" style="vertical-align:middle;margin:50px 0px" /> -->
       <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
     alt="Git" />
       
