@@ -1,7 +1,7 @@
 
 
 
-   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" height="600px" width="100%">   
+   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" height="auto" width="100%">   
 
 
 
