@@ -1,6 +1,6 @@
 
 
-
+ 
    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" height="auto" width="100%">   
 
 <!-- <img src="https://i.pinimg.com/originals/c6/3c/ae/c63cae1344766f14d9d184e5aafed065.gif" alt="javascript" height="500px" width="100%" style="vertical-align:middle;margin:50px 0px" />
