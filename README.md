@@ -12,7 +12,6 @@ and intensely interested in working in a
 product-based company.
 </h3>
       
-   
       
    <p align="center" color:"red">
      <a href="https://github.com/DenverCoder1/readme-typing-svg">
