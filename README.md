@@ -20,7 +20,7 @@ product-based company.
  
 <img align="right" width=200px height=250px alt="side_sticker"
   src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-  <br /> 
+<br /> 
   
   
   <p align="">
