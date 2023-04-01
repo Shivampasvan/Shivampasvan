@@ -26,10 +26,7 @@ product-based company.
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shivampasvan&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   <br /><br />
   </p>
-      
- 
 
-  
   <p>
     <a href="https://github.com/Shivampasvan"><span>
         <img align="left" 
