@@ -144,7 +144,7 @@ product-based company.
   <p align="center">
     <a href="https://github.com/Shivampasvan"><span>
         <img align="center"
-          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivampasvan&theme=github_dark" width="100%" />
+          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivampasvan&theme=github_light" width="100%" />
       </span></a>
   </p> 
   
