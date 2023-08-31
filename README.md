@@ -4,7 +4,7 @@
                                                                     
 <h3 align="center">An analytical and detail-oriented aspiring                      
 Full Stack Web Developer. Capable of                 
-writing production-ready code using            
+writing production-ready code using             
 MERN stack. Passionate about coding            
 and intensely interested in working in a     
 product-based company.     
