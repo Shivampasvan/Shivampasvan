@@ -54,11 +54,11 @@ product-based company.
       
    - 🌱 I’m currently learning at Masai
       
-      - 📄 Check out my <a href="https://drive.google.com/file/d/1btpP8GpXCqHSVFquGhEMmGley6nch-kY/view?usp=sharing" target="_blank" >Resume</a>
+      - 📄 Check out my <a href="https://drive.google.com/file/d/180SHyACf37TBqONwxgkyPx0_se9ji2qX/view?usp=sharing" target="_blank" >Resume</a>
       
       - 💻 My portfolio link [Portfolio]( https://Shivampasvan.github.io/)
       
-      - 💬 Ask me about *HTML, CSS, JavaScript, React, Chakra-UI, ExpressJS, MongoDB & DSA*
+      - 💬 Ask me about *HTML, CSS, JavaScript, React, NextJS, React Native, Material-UI, Chakra-UI, NodeJS, ExpressJS, MongoDB & DSA*
       
       - 📫 How to reach me **shivampasvan@gmail.com**
       
