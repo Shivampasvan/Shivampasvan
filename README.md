@@ -56,7 +56,7 @@ product-based company.
       
       - 📄 Check out my <a href="https://drive.google.com/file/d/1LX11VpIxPZz78Gpde9Yat2SsirdU-rNQ/view?usp=sharing" target="_blank" >Resume</a>
       
-      - 💻 My LinkedIn profile is [Profile](https://www.linkedin.com/in/shivampasvan/)
+      - 💻 Check out my LinkedIn [Profile](https://www.linkedin.com/in/shivampasvan/)
       
       - 💬 Ask me about *HTML, CSS, JavaScript, React, NextJS, React Native, Material-UI, Chakra-UI, NodeJS, ExpressJS, MongoDB & DSA*
       
