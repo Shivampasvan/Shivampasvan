@@ -50,13 +50,13 @@ product-based company.
       
    ## 🙋‍♂️ About Me
       
-   - 🔭 I’m currently pursuing Full Stack Web Development
+   - 🔭 I’m currently working as a Full Stack Web Developer
       
-   - 🌱 I’m currently learning at Masai
+   - 🌱 I’m currently working at StockTutor
       
-      - 📄 Check out my <a href="https://drive.google.com/file/d/180SHyACf37TBqONwxgkyPx0_se9ji2qX/view?usp=sharing" target="_blank" >Resume</a>
+      - 📄 Check out my <a href="https://drive.google.com/file/d/1LX11VpIxPZz78Gpde9Yat2SsirdU-rNQ/view?usp=sharing" target="_blank" >Resume</a>
       
-      - 💻 My portfolio link [Portfolio]( https://Shivampasvan.github.io/)
+      - 💻 My LinkedIn profile is [Portfolio](https://www.linkedin.com/in/shivampasvan/)
       
       - 💬 Ask me about *HTML, CSS, JavaScript, React, NextJS, React Native, Material-UI, Chakra-UI, NodeJS, ExpressJS, MongoDB & DSA*
       
